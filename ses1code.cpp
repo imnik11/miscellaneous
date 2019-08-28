@@ -30,3 +30,34 @@ int main() {
    cout<<fun(12, ,2)<<end
 	return 0;
 }
+#include <iostream>
+using namespace std;
+
+class cls{
+    public:
+        cls(){
+            func();
+        }
+        ~cls(){
+            func();
+        }
+        void func(){
+            cout<<3<<endl;
+        }
+        void fun(){
+            func();
+        }
+};
+class b:public cls{
+    void func(){
+        cout<<2<<endl;
+        
+    }
+};
+int main() {
+	// your code goes here
+    b o;
+    o.fun();
+    
+	return 0;
+}
