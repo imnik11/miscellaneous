@@ -1,0 +1,155 @@
+<mjml>
+  <mj-head>
+    
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section background-url="https://prix0007.github.io/assests/images/misc/email_cover.jpg" full-width="full-width" background-color="#000000" padding-top="52px" padding-bottom="0">
+      <mj-column width="100%" padding-left="20px" padding-right="20px"  padding-bottom="20px" padding-top="10px" >
+        <mj-image src="https://prix0007.github.io/assests/images/logos/full_logo_with_theme.png" width="300px" alt="" padding="0" href="https://tantrafiesta.in/"  />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" >
+      <mj-column width="100%">
+        <mj-image src="https://iiitn.ac.in/images/logo-iiitngp-3.jpg" width="600px" alt="" padding="0" href="https://tantrafiesta.in/" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="13px" padding-right="15px">
+        <mj-column width="100%">
+           <mj-text  font-family="Helvetica " font-weight="700" font-size="14px" color="#637381">
+     				To
+            <br/>Indian Institute of Technology<br/>Guwahati
+         
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="15px">
+     				
+            Subject : Invitation letter for technical festival<br/>
+         
+          </mj-text>
+          <mj-text color="#637381" font-size="13px">
+               Respected Sir/Ma’am,
+          </mj-text>
+          <mj-text color="#637381" font-size="13px">
+            We are honoured to inform you about the National level Technical festival
+TantraFiesta 2019 organized by IIIT Nagpur. The event would showcase the
+talent in the fields of robotics, algorithm, science, technology, innovation,
+entrepreneurship, gaming etc. It is a platform to encourage healthy competition
+among the budding engineers of our country. The theme of our fest is
+Conquering the space. It aims at enlacing the trending skills,
+experiencing the real world and evolving to get best out of the individual.
+On behalf of TantraFiesta 2019 team, we take this honour to invite your college
+students to participate in this two days event from 28 th -29 th September 2019.
+We request you to encourage your students for participation.
+          </mj-text>
+          <mj-text color="#637381" font-size="13px">
+            We present you the most exciting events for the year:
+          </mj-text>
+          <mj-text color="#637381" font-size="13px">
+            <ul>
+              <li style="padding-bottom: 20px"><strong>Coddiction :</strong> A coding competition for enthusiastic geeks who would like to challenge their abilities.</li>
+              <li style="padding-bottom: 20px"><strong>Karyaneeti :</strong> A competition for brilliant minds to challenge their thinking ability to the next level and win exciting prizes.</li>
+              <li><strong>Electrogiest :</strong> Electrogiest lets you prove yourself an Electronics-Geek. Be amongst the brilliants to win this electrifying competition.</li>
+            </ul>
+          </mj-text>
+          <mj-text color="#637381" font-size="13px" padding-top="30px">
+            Place: Nagpur<br />
+Yours faithfully,<br />
+Team TantraFiesta 2019
+          </mj-text>
+          
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+        </mj-column>
+      </mj-section>
+       <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image  src="https://prix0007.github.io/assests/images/posters/mainposter.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="500" align="center" color="#000" font-family="helvetica" color="#212b35" font-size="17px" text-transform="uppercase" >Tantrafiesta</mj-text>
+        <mj-text align="justify" font-size="15px" color="#000" font-family="helvetica">TantraFiesta is the annual national level technical fest​ organized by IIIT Nagpur.</mj-text>
+        <mj-button align="center" background-color="#8ccaca" border-radius="40px" font-family="helvetica" font-size="12px" href="https://prix0007.github.io/assests/docs/pdfs/event_description.pdf">Download Brochure</mj-button>
+      </mj-column>
+    </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            address
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            Near TV Tower, Seminary Hills,
+            <br/>  Nagpur, Maharashtra 440006
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            Event Hours
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            Saturday, September 28th: 10:00AM - 5:00PM
+            <br/> Sunday, September 29th: 10:00AM - 5:00PM
+          </mj-text>
+        </mj-column>
+      </mj-section>
+          <mj-section background-color="#ffffff" padding-left="5px" padding-right="5px" padding-top="0" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#000" border-width="1px" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding="0 15px 0 15px">
+        <mj-column width="100%">
+          <mj-text align="center" color="#293036" font-size="11px" line-height ="17px">
+            भारतीय सूचना प्रौद्योगिकी संस्थान, नागपूर – ४४०००६
+            <br />
+            INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, NAGPUR -440006
+            <br />
+C/o Regional Telecom Training Centre (RTTC) BSNL, Seminary Hills, Nagpur-440006 <br /> <br />
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="facebook" href="https://www.facebook.com/iiitsapients/">
+            </mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/tantrafiesta/" >
+            </mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/NapurIIITN/" >
+            </mj-social-element>
+            <mj-social-element name="youtube" href="https://www.youtube.com/channel/UCcQEXD69BdMFyU8872dU2_A" >
+            </mj-social-element>
+          </mj-social>
+         
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; IIITN Tantrafiesta., All Rights Reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+       
+
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
