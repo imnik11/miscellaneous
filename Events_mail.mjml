@@ -1,0 +1,160 @@
+<mjml>
+  <mj-body background-color="#F4F4F4"  >
+    <mj-section background-color="#fff" >
+      <mj-column width="100%">
+        <mj-image src="https://iiitn.ac.in/images/logo-iiitngp-3.jpg" width="600px" alt="" padding="0" href="https://tantrafiesta.in/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-left="5px" padding-right="5px" padding-top="0" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#000" border-width="1px" />
+        </mj-column>
+      </mj-section>
+    <mj-section background-color="#ffffff"  text-align="center" vertical-align="top">
+      <mj-column >
+        <mj-image align="center" padding="10px 25px" src="https://prix0007.github.io/assests/images/logos/full_logo_with_theme_black.png" target="_blank" width="300px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" css-class="" src="https://prix0007.github.io/assests/images/posters/mainposter.png" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text  align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">- Our Events -</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="https://prix0007.github.io/assests/images/posters/coddiction_compressed.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Coddiction</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552">A coding competition for enthusiastic geeks who would like to challenge their abilities.</p>
+        </mj-text>
+        <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://prix0007.github.io/assests/images/posters/karyaneeti_compressed.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif"><b>Karyaneeti</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Gotham-Light,Helvetica,Arial,sans-serif; color:#354552">A competition for brilliant minds to challenge their thinking ability to the next level and win exciting prizes.</p>
+        </mj-text>
+         <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://apurvchandel.github.io/Tantrafiesta/assets/images/electro.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Electrogiest</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Gotham-Light,Helvetica,Arial,sans-serif; color:#354552">Electrogiest lets you prove yourself an Electronics-Geek. Be amongst the brilliants to win this electrifying competition.</p>
+        </mj-text>
+         <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+      <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://prix0007.github.io/assests/images/posters/contrivance_compressed.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif"><b>Contrivance</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Gotham-Light,Helvetica,Arial,sans-serif; color:#354552">An event that Involves breaking out of expected patterns in order to look
+at things in a different way.</p>
+        </mj-text>
+         <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="https://prix0007.github.io/assests/images/posters/graphometry_compressed.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Graphometry</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> This is an online event, where the theme will be decided based on which posters,logos
+and banners of specified size are to be designed using any designing software.</p>
+        </mj-text>
+        <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://prix0007.github.io/assests/images/posters/maze_runner_compressed.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif"><b>Maze Runner</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Gotham-Light,Helvetica,Arial,sans-serif; color:#354552">This event will be in a set of rounds where every time arena is made a bit tougher for the
+robot to clear.</p>
+        </mj-text>
+         <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+      <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="https://prix0007.github.io/assests/images/posters/rejuvenate_compressed.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Rejuvenate</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552">Don’t Think Outside The Box Think What Can You Do With the Box.</p>
+        </mj-text>
+        <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://prix0007.github.io/assests/images/posters/weavetheweb_compressed.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif"><b>Weave the Web</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Gotham-Light,Helvetica,Arial,sans-serif; color:#354552">Web Design Contest = Employability, Best Practices and Web Standards
+​Empowering the creative, technically proficient</p>
+        </mj-text>
+         <mj-button href="https://tantrafiesta.in/events.html">Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-button align="center" background-color="#354552" border-radius="3px" color="#ffffff" font-family=" Arial" font-size="14px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" href="https://tantrafiesta.in/events.html"
+          vertical-align="middle">Discover all events</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+      
+        <mj-social align="center">
+          <mj-social-element href="https://www.facebook.com/iiitsapients/" name="facebook"></mj-social-element>
+          <mj-social-element href="https://twitter.com/NapurIIITN/" name="twitter"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/tantrafiesta/" name="instagram"></mj-social-element>
+          <mj-social-element href="https://www.youtube.com/channel/UCcQEXD69BdMFyU8872dU2_A" name="youtube"></mj-social-element>
+          
+        </mj-social>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="10px" >
+        	&copy;IIITN Tantrafiesta All Rights Reseved
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
